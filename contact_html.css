@@ -8,13 +8,13 @@ a:hover { color:#B2B3B4; }
 body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_6c28bad { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:238px; background-color:#2D2913;  }
-#container_3aa1121 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; max-width:1600px; background-color:#FFFFFF; background-image: url(rc_images/landscapenoe.jpg); background-position:center left; background-size:cover;  }
+#container_3aa1121 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:246px; max-width:1600px; background-color:#FFFFFF; background-image: url(rc_images/ireye4task.jpg); background-position:top left; background-size:cover;  }
 #container_3aa1121_padding { margin: 10px; display: block;  }
 .textstyle2 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 #container_4bbdec36 { vertical-align: top; position:relative; display: inline-block; width:85%; min-height:184px; max-width:1000px; background:none;  }
 #container_4bbdec36_padding { margin: 10px; display: block;  }
 .textstyle3 { text-align:left; }
-#container_6929f316 { vertical-align: top; position:relative; display: inline-block; width:59%; min-height:188px; background:none;  }
+#container_6929f316 { vertical-align: top; position:relative; display: inline-block; width:59%; min-height:188px; background-color:#FFFFFF; background: linear-gradient(to bottom,#FFFFFF, #727272 50%, #595959 50%, #3F3F3F);  }
 #container_6929f316_padding { margin: 10px; display: block;  }
 .textstyle4 { font-size:26pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
 .textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; font-weight:bold;  }
